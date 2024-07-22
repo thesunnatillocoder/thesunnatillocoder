@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunnatillo</h1>
 <h3 align="center">Backend developer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **Node Js:[]**
+- 🌱 I’m currently learning **NodeJS**
 
 - 📝 I regularly write articles on [https://t.me/portfoliogo](https://t.me/portfoliogo)
 
